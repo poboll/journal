@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+.serena/
+/journal.html
+journal备份/
+journal备份0425 codex/
+data/private-source/*
+!data/private-source/.gitkeep
+scripts/
+!scripts/
+!scripts/*.mjs
